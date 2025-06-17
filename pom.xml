@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ls</groupId>
-    <artifactId>local-stack</artifactId>
+    <artifactId>local-stack-rds</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>local-stack</name>
     <description>local-stack</description>
